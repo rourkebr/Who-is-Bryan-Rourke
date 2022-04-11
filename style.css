@@ -1,0 +1,36 @@
+
+header {
+    padding: 20px 35px;
+    background-color: white;
+    text-align: center;
+    width: 100%;
+  }
+  head h1 {
+      font-weight: bold;
+      font-size: 36px;
+      color: green;
+      margin: 0;
+      display: inline;
+    }
+   head nav ul li{
+      float: right;
+      margin: 7px 0;
+      list-style: none;
+      background-color: green;
+    }
+   
+    
+    body img {
+      width: 100%;
+      justify-content: center;
+    }
+    footer {
+      background: white;
+      width: 100%;
+      padding: 40px 35px;
+  
+    }
+    footer h3 {
+      color: green;
+      align-content: center;
+    }
